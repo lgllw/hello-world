@@ -1,5 +1,5 @@
 # hello-world
 
+clear the old info
 
-Hi  i am studying to work with github now . this is the first step. 
-Hi  this is my 2 branch test
+add 3 branch..
